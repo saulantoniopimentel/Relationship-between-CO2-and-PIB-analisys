@@ -1,6 +1,9 @@
 **-> Content**  
-o	Data extraction
-o	CO2 emissions per year dashboard 
-o	PIB percentage per year dashboard
-o	Relationship between both dashboards 
-o	Dashboard to illustrate the relationship between 
+- Data extraction
+- CO2 emissions per year dashboard 
+- PIB percentage per year dashboard
+- Relationship between both dashboards 
+- Dashboard to illustrate the relationship between 
+
+-> dataset: inde¿icato.csv
+-> Analisys by Saúl Antonio Pimentel Chacón 
