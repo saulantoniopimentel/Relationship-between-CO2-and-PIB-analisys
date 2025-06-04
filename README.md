@@ -5,5 +5,6 @@
 - Relationship between both dashboards 
 - Dashboard to illustrate the relationship between 
 
--> dataset: inde¿icato.csv
+-> dataset: indicators.csv
+
 -> Analisys by Saúl Antonio Pimentel Chacón 
